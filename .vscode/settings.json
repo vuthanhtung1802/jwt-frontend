@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 18,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontFamily": "'FIRA code', 'Courier New', monospace",
+    "files.autoSave": "onFocusChange",
+    "tabnine.experimentalAutoImports": true,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 80,
+    "prettier.singleQuote": true
+}
